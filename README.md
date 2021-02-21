@@ -8,9 +8,8 @@
 Asks a question and reveals the answer when you tap on the button
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://i.imgur.com/MKT5HYl.gif" width=200><br>
+<img src="https://i.imgur.com/CcV29fj.gif" width=200><br>
 
 
 
